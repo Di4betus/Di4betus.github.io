@@ -43,3 +43,23 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+table {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+table th {
+padding: 0.5rem 0.5rem 0.5rem 0;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    font-size: 0.6875rem;
+    line-height: 1;
+    font-weight: normal;
+    text-align: left;
+    vertical-align: bottom;
+}
