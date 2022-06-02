@@ -25,11 +25,13 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -62,4 +64,11 @@ padding: 0.5rem 0.5rem 0.5rem 0;
     font-weight: normal;
     text-align: left;
     vertical-align: bottom;
+}
+
+.button--small
+{
+    padding: 0.3125rem 0.625rem;
+    font size: 1.125rem;
+    line-height: 1.25rem;
 }
