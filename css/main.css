@@ -72,3 +72,15 @@ padding: 0.5rem 0.5rem 0.5rem 0;
     font size: 1.125rem;
     line-height: 1.25rem;
 }
+
+svg.icon
+{
+    width: 16px;
+    height: 16px;
+}
+
+.button--icon>svg
+{
+    width: 1rem;
+    height: 1rem;
+}
